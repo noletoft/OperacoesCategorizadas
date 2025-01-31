@@ -1,0 +1,14 @@
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/bin/Debug/net9.0/OperacoesCategorizadas
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/bin/Debug/net9.0/OperacoesCategorizadas.deps.json
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/bin/Debug/net9.0/OperacoesCategorizadas.runtimeconfig.json
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/bin/Debug/net9.0/OperacoesCategorizadas.dll
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/bin/Debug/net9.0/OperacoesCategorizadas.pdb
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/obj/Debug/net9.0/OperacoesCategorizadas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/obj/Debug/net9.0/OperacoesCategorizadas.AssemblyInfoInputs.cache
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/obj/Debug/net9.0/OperacoesCategorizadas.AssemblyInfo.cs
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/obj/Debug/net9.0/OperacoesCategorizadas.csproj.CoreCompileInputs.cache
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/obj/Debug/net9.0/OperacoesCategorizadas.dll
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/obj/Debug/net9.0/refint/OperacoesCategorizadas.dll
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/obj/Debug/net9.0/OperacoesCategorizadas.pdb
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/obj/Debug/net9.0/OperacoesCategorizadas.genruntimeconfig.cache
+/Users/noletoft/Projects/OperacoesCategorizadas/OperacoesCategorizadas/obj/Debug/net9.0/ref/OperacoesCategorizadas.dll
